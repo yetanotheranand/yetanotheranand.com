@@ -1,6 +1,12 @@
 <nav class="navbar navbar-expand-lg navbar-themed">
 
-  <a class="navbar-brand" href="{{ site.baseurl }}/"><h5><b>{{ site.title }}</b></h5></a>
+  <div class="navbar-brand" >
+    <a href="{{ site.baseurl }}/">
+      <img src="/assets/images/logo-light.svg" alt="" width="96" height="96" />
+    </a>
+    <span class="d-none d-md-inline-block">Anand Gupta</span>
+  </div>
+
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <i class="fas fa-1x fa-bars text-themed"></i>
@@ -12,7 +18,7 @@
       {%- assign html_pages = site.html_pages | sort: 'weight' -%}
       {%- assign filtered_pages = "" | split: "" -%}
 
-      {%- for html_page in html_pages -%} 
+      {%- for html_page in html_pages -%}
 
         {%- assign exclude = false -%}
 
@@ -37,7 +43,7 @@
 
       {%- endfor -%}
 
-      {% for html_page in filtered_pages %}  
+      {% for html_page in filtered_pages %}
 
         {%- if page.url contains html_page.url -%}
           {%- assign active_status = "active" -%}
@@ -55,7 +61,21 @@
 
       {% endfor %}
 
-      <span id="theme-toggler" class="nav-item nav-link" role="button" onclick="toggleTheme()"></span>
+      <span class="theme-toggler nav-item nav-link" role="button" title="Toggles between light and dark theme" onclick="toggleTheme()">
+        <svg class="sun-and-moon" aria-hidden="true" width="24" height="24" viewBox="0 0 24 24">
+          <circle class="sun" cx="12" cy="12" r="6" fill="currentColor" />
+          <g class="sun-beams" stroke="currentColor">
+            <line x1="12" y1="1" x2="12" y2="3" />
+            <line x1="12" y1="21" x2="12" y2="23" />
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" />
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" />
+            <line x1="1" y1="12" x2="3" y2="12" />
+            <line x1="21" y1="12" x2="23" y2="12" />
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" />
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" />
+          </g>
+        </svg>
+      </span>
     </div>
   </div>
 

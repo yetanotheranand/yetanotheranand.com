@@ -1,0 +1,23 @@
+- name: ReactJS
+  percentage: 100
+
+- name: JUnit
+  percentage: 100
+
+- name: Kafka
+  percentage: 100
+
+- name: Nginx
+  percentage: 100
+
+- name: Docker
+  percentage: 100
+
+- name: Kubernetes
+  percentage: 50
+
+- name: Grafana
+  percentage: 75
+
+- name: SpringBoot
+  percentage: 100

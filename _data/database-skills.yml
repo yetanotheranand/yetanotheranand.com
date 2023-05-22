@@ -1,0 +1,11 @@
+- name: PostgreSQL
+  percentage: 50
+
+- name: MongoDB
+  percentage: 75
+
+- name: Redis
+  percentage: 100
+
+- name: MySQL
+  percentage: 75

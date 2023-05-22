@@ -1,0 +1,10 @@
+<div class="row">
+  <h2 class="mb-3">MS Courses</h2>
+</div>
+<div class="row">
+  <div class="col mt-4">
+      {% for course in site.data.coursework %}
+        <p>{{ course.title }}</p>
+      {% endfor %}
+  </div>
+</div>

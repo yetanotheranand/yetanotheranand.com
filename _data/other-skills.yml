@@ -1,0 +1,20 @@
+- name: Microsoft Azure
+  percentage: 75
+
+- name: Amazon Web Services
+  percentage: 25
+
+- name: Github Actions
+  percentage: 75
+
+- name: Agile Methodologies (Lean/Kanban/Scrum)
+  percentage: 100
+
+- name: Data Structures & Algorithms
+  percentage: 75
+
+- name: Microservices
+  percentage: 100
+
+- name: RESTful APIs
+  percentage: 100

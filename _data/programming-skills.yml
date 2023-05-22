@@ -1,0 +1,23 @@
+- name: Java
+  percentage: 100
+
+- name: SQL
+  percentage: 75
+
+- name: JavaScript
+  percentage: 75
+
+- name: HTML
+  percentage: 75
+
+- name: CSS
+  percentage: 50
+
+- name: Prolog
+  percentage: 50
+
+- name: Jekyll
+  percentage: 75
+
+- name: Rust
+  percentage: 25

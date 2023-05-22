@@ -1,0 +1,64 @@
+- title: Principal Engineer
+  company: Hughes Systique Corporation, Gurgaon, India
+  from: Sep 2021
+  to: Aug 2022
+  summary: >-
+    Technologies Used:
+    Java, JavaScript, RESTful web services, Kafka, Redis, Kubernetes, Docker, Spring Boot
+
+  description:
+   - "Collaborator in a cross-functional team. I was involved in the design and
+   development of the monitoring and alerting dashboard for use by Telecom industry."
+   - "Leading a team of 4 engineers and involved in delegating tasks, reviewing their work, and mentoring them."
+
+- title: Contract Software Engineer
+  company: Adobe Inc., Noida, India
+  from: Jul 2017
+  to: Aug 2021
+  summary: >-
+    Technologies Used:
+    Java, JUnit, ReactJS, Mocha, Chai, Sinon, RESTful web services, Kafka, Docker, Nginx, Grafana, Protobuf, AEM 6.2 - AEM 6.5, AWS, Microsoft Azure
+
+  description:
+   - "Collaborated in a team to develop and maintain core modules
+   like identity management, provisioning, etc of Adobe Experience Cloud,
+   a collection of integrated online marketing and web analytics products,
+   responsible for user and product provisioning."
+   - "Collaborator in a team which designed and developed module responsible
+   for serving assets of Adobe Experience Cloud solutions.
+   My responsibility was to minimize Time to First Byte (TTFB) by
+   applying modifications/optimizations to different layers in client-server model."
+   - "Worked individually to integrate Adobe Livefyre's content curation capabilities with Adobe Experience Manager.
+   During the same time, designed the user interface for the General Data Protection Regulation (GDPR) module
+   and made the integration module GDPR compliant."
+
+- title: Senior Software Engineer
+  company: Hughes Systique Corporation, Gurgaon, India
+  from: May 2017
+  to: Jun 2017
+  summary: >-
+    Technologies Used:
+    Java, JUnit, IBM Watson API, Facebook Messenger API, RESTful web services
+
+  description:
+   - "Designed and developed a chatbot application to simulate conversation
+   and assist grocery buyer in placing their order leveraging IBM Watson Assistant.
+   This project was an individual initiative during Garage Week
+   to come up with a solution to automate any daily activity."
+
+- title: Systems Engineer
+  company: Tata Consultancy Services, Pune, India
+  from: Jun 2014
+  to: May 2017
+  summary: >-
+    Technologies Used:
+    Java, JUnit, HTML5, CSS3, KnockoutJS, Cordova, Android, CucumberJS, RESTful web services, Java MQ, Selenium, Appium
+
+  description:
+   - "Involved in the development of independently deployable and modular services
+   to be consumed by various channels e.g. ATMs, branch banking, mobile banking,
+   of a European bank."
+   - "Worked in a team and was responsible for development of Payments module
+   of mobile banking application for one of the biggest European bank
+   for its customers in Spain, Portugal, Italy and Belgium."
+
