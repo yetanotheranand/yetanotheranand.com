@@ -12,8 +12,11 @@
   svg {
     @include themed(filter, invert(50%) sepia(5%) saturate(45%) hue-rotate(314deg) brightness(99%) contrast(105%), brightness(0) saturate(100%) invert(100%) sepia(35%) saturate(6704%) hue-rotate(357deg) brightness(108%) contrast(103%));
   }
-  &:before {
-    @include themed(content, "Dark Mode", 'Light Mode');
+  .dark-mode-icon {
+    @include themed(display, inline, none);
+  }
+  .light-mode-icon {
+    @include themed(display, none, inline);
   }
 }
 
