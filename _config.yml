@@ -1,9 +1,10 @@
 ### Site Settings ###
-title               : Anand Gupta
+title               : Anand Gupta - Personal Portfolio
 description         : >-
-                      A software engineer, transforming ideas into reality one bug at a time.
+                      A full-stack software engineer, transforming ideas into reality one bug at a time.
+                      I'm currently pursuing MS in Software Engineering from Arizona State University.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : yetanotheranand/yetanontheranand.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : yetanotheranand/yetanotheranand.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -24,7 +25,7 @@ author:
   name              : Anand Gupta
   image             : "assets/images/self.jpg"
   email             : workmail.anand@gmail.com
-  github            : yetanontheranand
+  github            : yetanotheranand
   linkedin          : anand0g
   instagram         : yetanothernetizen
 
