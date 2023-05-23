@@ -22,7 +22,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Anand Gupta
-  image             : "assets/images/self.jpg?raw=true"
+  image             : "assets/images/self.jpg"
   email             : workmail.anand@gmail.com
   github            : yetanontheranand
   linkedin          : anand0g

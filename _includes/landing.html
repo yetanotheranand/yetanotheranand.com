@@ -5,7 +5,11 @@
     <div id="container" class="my-2">
       <div id="dummy"></div>
       <div id="element">
-        <img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image wow animated zoomIn" data-wow-delay=".1s">
+        <picture>
+          <source srcset="assets/images/self.avif" type="image/avif">
+          <source srcset="assets/images/self.webp" type="image/webp">
+          <img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image wow animated zoomIn" data-wow-delay=".1s">
+         </picture>
       </div>
     </div>
 
