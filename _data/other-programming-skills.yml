@@ -1,6 +1,9 @@
 - name: ReactJS
   percentage: 100
 
+- name: VueJS
+  percentage: 25
+
 - name: JUnit
   percentage: 100
 

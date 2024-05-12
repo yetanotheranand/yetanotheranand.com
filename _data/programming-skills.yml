@@ -18,6 +18,3 @@
 
 - name: Jekyll
   percentage: 75
-
-- name: Rust
-  percentage: 25

@@ -1,3 +1,29 @@
+- title: Software Engineering - Co-op (Fall 2023)
+  company: Motive Health Inc., Scottsdale, Arizona
+  from: Sep 2023
+  to: Dec 2023
+  summary: >-
+    Technologies Used:
+    React Native, JavaScript, HTML, CSS, RESTful web services, Shopify, Grafana, Google Firestore, Sentry
+
+  description:
+   - "Enhancement and maintenance of the current iOS and Android mobile app using React Native."
+   - "Executed website evaluations across diverse browsers and platforms, pinpointing and reporting any discrepancies in the mymotive.com website."
+   - "Developed and deployed web tools to improve the visibility of observability metrics related to MyMotive infrastructure."
+
+- title: Mobile App and Website Testing Intern
+  company: Motive Health Inc., Scottsdale, Arizona
+  from: Jun 2023
+  to: Aug 2023
+  summary: >-
+    Technologies Used:
+    Marker.io, JIRA, Sentry, Ahrefs, Google PageSpeed, HTML, CSS, Shopify
+
+  description:
+   - "Conducted thorough testing of the mobile app on various devices (iOS and Android) to ensure optimal functionality, usability, and compatibility."
+   - "Performed website testing across different browsers and platforms to identify and report any issues or inconsistencies."
+   - "Documented and executed test cases, test scenarios, and test data to ensure complete test coverage."
+
 - title: Principal Engineer
   company: Hughes Systique Corporation, Gurgaon, India
   from: Sep 2021

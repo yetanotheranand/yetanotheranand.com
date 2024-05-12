@@ -14,3 +14,6 @@
     box-shadow: -2px 8px 40px -12px rgba(0, 0, 0, 0.24);
   }
 }
+.carousel-control-prev, .carousel-control-next {
+  filter: invert(100%);
+}
