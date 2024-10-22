@@ -6,7 +6,7 @@ weight: 3
 ---
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-I’m a full-stack developer and currently pursuing my Masters in Software Engineering from [Arizona State University](https://www.asu.edu){:target="_blank"}. I have completed my undergraduate studies in Computer Science from [Institute of Engineering and Technology](https://www.ietlucknow.ac.in){:target="_blank"}, and have 8 years of professional experience in the software industry in the design, development and maintenance of mobile and web-based applications in an agile manner.
+I'm a software engineer with a passion for developing systems that can have a positive impact in the real world. I have been predominantly working in the digital experience domain, focusing on efficiency and reliability, ensuring the systems I design can handle growth without compromise. I recently graduated with Masters in Software Engineering from [Arizona State University](https://www.asu.edu){:target="_blank"}. I have completed my undergraduate studies in Computer Science and Engineering from [Institute of Engineering and Technology](https://www.ietlucknow.ac.in){:target="_blank"}.
 
 {% include about/coursework.html %}
 
